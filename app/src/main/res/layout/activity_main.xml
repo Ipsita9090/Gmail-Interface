@@ -146,7 +146,7 @@
                         android:id="@+id/up"
                         android:layout_width="50dp"
                         android:layout_height="50dp"
-                        android:src="@drawable/akash" />
+                        android:src="@drawable/ipsita" />
 
                     <LinearLayout
                         android:layout_width="wrap_content"
@@ -159,7 +159,7 @@
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
                             android:layout_marginRight="5dp"
-                            android:text="AKASH SAHOO"
+                            android:text="IPSITA BARUA"
                             android:textColor="@color/white"
                             android:textSize="18dp" />
 
@@ -170,9 +170,9 @@
 
                             <TextView
                                 android:layout_width="wrap_content"
-                                android:layout_height="match_parent"
+                                android:layout_height="wrap_content"
                                 android:layout_marginLeft="10dp"
-                                android:text="to rmt, sahoo5046"
+                                android:text="to rmt, Deepsikha"
                                 android:textColor="@color/white" />
 
                             <ImageButton
@@ -194,7 +194,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="5dp"
-                        android:text="3 days ago"
+                        android:text="1:30 PM"
                         android:textColor="@color/white"
                         android:textSize="15dp" />
 
@@ -296,7 +296,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="31 Jan 2023, 8:46 am"
+                            android:text="Feb 14, 2023, 1:30 PM"
                             android:textColor="@color/white" />
 
                     </LinearLayout>
@@ -371,7 +371,7 @@
                         android:id="@+id/pp"
                         android:layout_width="50dp"
                         android:layout_height="50dp"
-                        android:src="@drawable/uncle" />
+                        android:src="@drawable/maa" />
 
                     <LinearLayout
                         android:layout_width="wrap_content"
@@ -385,7 +385,7 @@
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
                             android:layout_marginRight="5dp"
-                            android:text="NANDA KISHORE..."
+                            android:text="DEEPSIKHA BARUA"
                             android:textColor="@color/white"
                             android:textSize="18dp"
                             tools:ignore="MissingConstraints" />
@@ -422,7 +422,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="5dp"
-                        android:text="3 days ago"
+                        android:text="1:32 PM"
 
                         android:textColor="@color/white" />
 
@@ -522,7 +522,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="31 Jan 2023, 2:25 pm"
+                            android:text="Feb 14, 2023, 1:32 PM"
                             android:textColor="@color/white" />
 
                     </LinearLayout>
@@ -698,7 +698,7 @@
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
                             android:layout_marginRight="5dp"
-                            android:text="Ranjan Kuman Swain"
+                            android:text="Ranjan Kuman Swa.."
                             android:textColor="@color/white"
                             android:textSize="18dp"
                             tools:ignore="MissingConstraints" />
@@ -712,7 +712,7 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:layout_marginLeft="10dp"
-                                android:text="to me, rmt, sahoo5046, XIM"
+                                android:text="to me, rmt,Deepsikha, XIM"
                                 android:textColor="@color/white" />
 
                             <ImageButton
@@ -737,7 +737,7 @@
                         android:layout_marginLeft="-18dp"
                         android:layout_toRightOf="@id/name3"
                         android:paddingTop="3dp"
-                        android:text="yesterday"
+                        android:text="2:48 PM"
                         android:textColor="@color/white" />
 
                     <ImageView
@@ -748,8 +748,9 @@
 
                     <ImageView
                         android:id="@+id/dots3"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
+                        android:layout_width="10dp"
+                        android:layout_height="10dp"
+                        android:layout_marginTop="10dp"
                         android:layout_alignParentRight="true"
 
                         android:src="@drawable/dots" />
@@ -838,7 +839,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="2 Feb 2023, 9:50 pm"
+                            android:text="Feb 14, 2023, 2:48 PM"
                             android:textColor="@color/white" />
 
                     </LinearLayout>

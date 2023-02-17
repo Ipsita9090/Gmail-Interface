@@ -62,20 +62,20 @@ public class MainActivity extends AppCompatActivity {
         down3=findViewById(R.id.down3);
         line2mini=findViewById(R.id.line2mini);
 
-        String text = "<font color=#eac9e7>< </font> <font color=#4a7fd6>uscbc20011@xustudent.edu.in</font><font color=#eac9e7>> wrote:</font> ";
+        String text = "<font color=#eac9e7>< </font> <font color=#4a7fd6>ucse20041@xustudent.edu.in</font><font color=#eac9e7>> wrote:</font> ";
         scc2.setText(Html.fromHtml(text));
         scc6.setText(Html.fromHtml(text));
 
-        String text1 = "<font color=#eac9e7>< </font> <font color=#4a7fd6>sahoo5046@gmail.com</font><font color=#eac9e7>> wrote:</font> ";
+        String text1 = "<font color=#eac9e7>< </font> <font color=#4a7fd6>baruadeepsikha@gmail.com</font><font color=#eac9e7>> wrote:</font> ";
         scc4.setText(Html.fromHtml(text1));
 
-        String namemail_akash = "<font color=#FFFFFFFF>AKASH SAHOO</font> <font color=#CBBAB6>•uscbc20011@xustudent.edu.in</font>";
+        String namemail_akash = "<font color=#FFFFFFFF>IPSITA BARUA</font> <font color=#CBBAB6>•ucse20041@xustudent.edu.in</font>";
         from1.setText(Html.fromHtml(namemail_akash));
         to2.setText(Html.fromHtml(namemail_akash));
         to3.setText(Html.fromHtml(namemail_akash));
 
 
-        String namemail_uncle = "<font color=#FFFFFFFF>NANDA KISHORE SAHOO</font> <font color=#CBBAB6>•sahoo5046@gmail.com</font>";
+        String namemail_uncle = "<font color=#FFFFFFFF>DEEPSIKHA BARUA</font> <font color=#CBBAB6>•baruadeepsikha@gmail.com</font>";
         cc1.setText(Html.fromHtml(namemail_uncle));
         from2.setText(Html.fromHtml(namemail_uncle));
 
@@ -85,7 +85,7 @@ public class MainActivity extends AppCompatActivity {
         from3.setText(Html.fromHtml(namemail_rmt));
         cc2.setText(Html.fromHtml(namemail_rmt));
 
-        String special_cc = "<font color=#CBBAB6>rmt@xim.edu.in\n</font><font color=#FFFFFFFF>NANDA KISHORE SAHOO</font> <font color=#CBBAB6>•sahoo5046@gmail.com</font>";
+        String special_cc = "<font color=#CBBAB6>rmt@xim.edu.in\n</font><font color=#FFFFFFFF>DEEPSIKHA BARUA</font> <font color=#CBBAB6>•baruadeepsikha@gmail.com</font>";
         cc3.setText(Html.fromHtml(special_cc));
 
         LinearLayout container=(LinearLayout) findViewById(R.id.ll);
